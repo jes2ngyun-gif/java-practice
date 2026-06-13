@@ -1,4 +1,4 @@
-package practice.oop.inheritance.abstractexample;
+package practice.oop.inheritance.lecture.abstractexample;
 
 public class Cat extends Animal {
 

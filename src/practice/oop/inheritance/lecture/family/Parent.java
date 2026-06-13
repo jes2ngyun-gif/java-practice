@@ -1,4 +1,4 @@
-package practice.oop.inheritance.family;
+package practice.oop.inheritance.lecture.family;
 
 public class Parent {
     public String familyName = "스파르타";

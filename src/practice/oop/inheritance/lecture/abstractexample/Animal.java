@@ -1,4 +1,4 @@
-package practice.oop.inheritance.abstractexample;
+package practice.oop.inheritance.lecture.abstractexample;
 
 // 추상클래스 선언
 abstract class Animal {
