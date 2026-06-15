@@ -1,4 +1,4 @@
-package practice.mixed.calculator;
+package practice.assignment.calculator;
 
 import java.util.ArrayList;
      // 계산 결과를 여러 개 저장하기 위해 List와 ArrayList를 가져온다.
