@@ -2,7 +2,6 @@ package practice.oop.total.shoppingmall;
 
 public class Customer {
 
-
     private String name;
 
     private String phoneNumber;
@@ -27,10 +26,12 @@ public class Customer {
     }
 
     public String getName() {
+
         return name;
     }
 
     public String getPhoneNumber() {
+
         return phoneNumber;
     }
 
